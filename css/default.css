@@ -1,0 +1,23 @@
+body{
+    background-image:url("images.jpg");
+   background-size: cover;
+    max-width: 100%;
+    height: auto;
+}
+h1{
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    color: #484b38;
+}
+span{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: hsl(15, 14%, 5%);
+}
+h3{
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    color: #080c07;
+}
+#tiemporestante{
+    margin-left: 10px;
+    border-style: dotted;
+    border-radius: 5px;
+}
